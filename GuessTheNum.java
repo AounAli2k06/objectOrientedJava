@@ -23,7 +23,7 @@ public class GuessTheNum {
 
     public static void main(String[] args) {
         GuessTheNum game = new GuessTheNum();
-        System.out.println(game.random);
+        // System.out.println(game.random);
 
         while (true) {
             game.takeUserInput();
